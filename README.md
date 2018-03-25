@@ -37,7 +37,8 @@ The System will allow customer to review flight information before making a fina
 ![class diagram](https://github.com/duoshyyigirl/Flight-Reservation-System/blob/master/img/Class%20Diagram.png)
 
 ## User Interface Screenshot
-We implemented the system by Java and enabled users to do all the system functions listed above. Here are some screenshots of how our sytem works.
+We implemented the system by Java and enabled users to do all the system functions listed above. Here are some screenshots of how our sytem works.And you can have a look at more by referring to the test verification document.
+
 ![User Interface1](https://github.com/duoshyyigirl/Flight-Reservation-System/blob/master/img/userinter1.png)
 ![User Interface2](https://github.com/duoshyyigirl/Flight-Reservation-System/blob/master/img/user2.png)
 ![User Interface3](https://github.com/duoshyyigirl/Flight-Reservation-System/blob/master/img/user3.png)
