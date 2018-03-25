@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Airports>
+    <Airport Code="ATL" Name="Hartsfield-Jackson Atlanta International">
+        <Latitude>33.641045</Latitude>
+        <Longitude>-84.427764</Longitude>
+    <GMTOffset>-5</GMTOffset></Airport>
+    <Airport Code="ANC" Name="Ted Stevens Anchorage International Airport">
+        <Latitude>61.176033</Latitude>
+        <Longitude>-149.990079</Longitude>
+    <GMTOffset>-9</GMTOffset></Airport>
+    <Airport Code="AUS" Name="Austin-Bergstrom International">
+        <Latitude>30.197703</Latitude>
+        <Longitude>-97.666327</Longitude>
+    <GMTOffset>-6</GMTOffset></Airport>
+    <Airport Code="BWI" Name="Baltimore/Washington International">
+        <Latitude>39.177641</Latitude>
+        <Longitude>-76.668446</Longitude>
+    <GMTOffset>-5</GMTOffset></Airport>
+    <Airport Code="BOS" Name="Logan International">
+        <Latitude>42.365855</Latitude>
+        <Longitude>-71.009624</Longitude>
+    <GMTOffset>-5</GMTOffset></Airport>
+    <Airport Code="CLT" Name="Charlotte Douglas International">
+        <Latitude>35.214688</Latitude>
+        <Longitude>-80.947369</Longitude>
+    <GMTOffset>-5</GMTOffset></Airport>
+    <Airport Code="MDW" Name="Chicago Midway Airport">
+        <Latitude>41.787028</Latitude>
+        <Longitude>-87.752156</Longitude>
+    <GMTOffset>-6</GMTOffset></Airport>
+    <Airport Code="ORD" Name="Chicago O'Hare International">
+        <Latitude>41.974397</Latitude>
+        <Longitude>-87.907321</Longitude>
+    <GMTOffset>-6</GMTOffset></Airport>
+    <Airport Code="CVG" Name="Cincinnati/Northern Kentucky International">
+        <Latitude>39.053529</Latitude>
+        <Longitude>-84.66307</Longitude>
+    <GMTOffset>-5</GMTOffset></Airport>
+    <Airport Code="CLE" Name="Cleveland Hopkins International">
+        <Latitude>41.412663</Latitude>
+        <Longitude>-81.847981</Longitude>
+    <GMTOffset>-5</GMTOffset></Airport>
+    <Airport Code="CMH" Name="Port Columbus International">
+        <Latitude>40.000158</Latitude>
+        <Longitude>-82.887198</Longitude>
+    <GMTOffset>-5</GMTOffset></Airport>
+    <Airport Code="DFW" Name="Dallas/Ft. Worth International - DFW Airport">
+        <Latitude>32.900075</Latitude>
+        <Longitude>-97.040378</Longitude>
+    <GMTOffset>-6</GMTOffset></Airport>
+    <Airport Code="DEN" Name="Denver International Airport">
+        <Latitude>39.856372</Latitude>
+        <Longitude>-104.67377</Longitude>
+    <GMTOffset>-7</GMTOffset></Airport>
+    <Airport Code="DTW" Name="Detroit Metropolitan Wayne County Airport">
+        <Latitude>42.216446</Latitude>
+        <Longitude>-83.355427</Longitude>
+    <GMTOffset>-5</GMTOffset></Airport>
+    <Airport Code="FLL" Name="Fort Lauderdale/Hollywood International">
+        <Latitude>26.074499</Latitude>
+        <Longitude>-80.150548</Longitude>
+    <GMTOffset>-5</GMTOffset></Airport>
+    <Airport Code="RSW" Name="Southwest Florida International">
+        <Latitude>26.534055</Latitude>
+        <Longitude>-81.75534</Longitude>
+    <GMTOffset>-5</GMTOffset></Airport>
+    <Airport Code="BDL" Name="Bradley International">
+        <Latitude>41.939117</Latitude>
+        <Longitude>-72.686063</Longitude>
+    <GMTOffset>-5</GMTOffset></Airport>
+    <Airport Code="HNL" Name="Hawaii Honolulu International">
+        <Latitude>21.324808</Latitude>
+        <Longitude>-157.925181</Longitude>
+    <GMTOffset>-10</GMTOffset></Airport>
+    <Airport Code="IAH" Name="George Bush Intercontinental">
+        <Latitude>29.990494</Latitude>
+        <Longitude>-95.336858</Longitude>
+    <GMTOffset>-6</GMTOffset></Airport>
+    <Airport Code="HOU" Name="William P. Hobby Airport">
+        <Latitude>29.654345</Latitude>
+        <Longitude>-95.276646</Longitude>
+    <GMTOffset>-6</GMTOffset></Airport>
+    <Airport Code="IND" Name="Indianapolis International">
+        <Latitude>39.717102</Latitude>
+        <Longitude>-86.295616</Longitude>
+    <GMTOffset>-5</GMTOffset></Airport>
+    <Airport Code="MCI" Name="Kansas City International">
+        <Latitude>39.300888</Latitude>
+        <Longitude>-94.712691</Longitude>
+    <GMTOffset>-6</GMTOffset></Airport>
+    <Airport Code="LAS" Name="McCarran International">
+        <Latitude>36.084256</Latitude>
+        <Longitude>-115.153803</Longitude>
+    <GMTOffset>-8</GMTOffset></Airport>
+    <Airport Code="LAX" Name="Los Angeles International">
+        <Latitude>33.944432</Latitude>
+        <Longitude>-118.408359</Longitude>
+    <GMTOffset>-8</GMTOffset></Airport>
+    <Airport Code="MEM" Name="Memphis International">
+        <Latitude>35.042345</Latitude>
+        <Longitude>-89.979216</Longitude>
+    <GMTOffset>-6</GMTOffset></Airport>
+    <Airport Code="MIA" Name="Miami International Airport">
+        <Latitude>25.796131</Latitude>
+        <Longitude>-80.287014</Longitude>
+    <GMTOffset>-5</GMTOffset></Airport>
+    <Airport Code="MSP" Name="Minneapolis/St. Paul International">
+        <Latitude>44.885002</Latitude>
+        <Longitude>-93.222296</Longitude>
+    <GMTOffset>-6</GMTOffset></Airport>
+    <Airport Code="BNA" Name="Nashville International">
+        <Latitude>36.126599</Latitude>
+        <Longitude>-86.677414</Longitude>
+    <GMTOffset>-6</GMTOffset></Airport>
+    <Airport Code="MSY" Name="Louis Armstrong International">
+        <Latitude>29.992457</Latitude>
+        <Longitude>-90.258979</Longitude>
+    <GMTOffset>-6</GMTOffset></Airport>
+    <Airport Code="JFK" Name="John F. Kennedy International">
+        <Latitude>40.641519</Latitude>
+        <Longitude>-73.77816</Longitude>
+    <GMTOffset>-5</GMTOffset></Airport>
+    <Airport Code="LGA" Name="LaGuardia International">
+        <Latitude>40.777183</Latitude>
+        <Longitude>-73.873955</Longitude>
+    <GMTOffset>-5</GMTOffset></Airport>
+    <Airport Code="EWR" Name="Newark Liberty International">
+        <Latitude>40.689722</Latitude>
+        <Longitude>-74.174537</Longitude>
+    <GMTOffset>-5</GMTOffset></Airport>
+    <Airport Code="OAK" Name="Metropolitan Oakland International">
+        <Latitude>37.712811</Latitude>
+        <Longitude>-122.219797</Longitude>
+    <GMTOffset>-8</GMTOffset></Airport>
+    <Airport Code="ONT" Name="Ontario International">
+        <Latitude>34.056205</Latitude>
+        <Longitude>-117.598046</Longitude>
+    <GMTOffset>-8</GMTOffset></Airport>
+    <Airport Code="MCO" Name="Orlando International">
+        <Latitude>28.431427</Latitude>
+        <Longitude>-81.308104</Longitude>
+    <GMTOffset>-5</GMTOffset></Airport>
+    <Airport Code="PHL" Name="Philadelphia International">
+        <Latitude>39.874581</Latitude>
+        <Longitude>-75.242423</Longitude>
+    <GMTOffset>-5</GMTOffset></Airport>
+    <Airport Code="PHX" Name="Sky Harbor International">
+        <Latitude>33.437551</Latitude>
+        <Longitude>-112.007799</Longitude>
+    <GMTOffset>-7</GMTOffset></Airport>
+    <Airport Code="PIT" Name="Pittsburgh International">
+        <Latitude>40.496029</Latitude>
+        <Longitude>-80.241311</Longitude>
+    <GMTOffset>-5</GMTOffset></Airport>
+    <Airport Code="PDX" Name="Portland International">
+        <Latitude>45.58999</Latitude>
+        <Longitude>-122.595115</Longitude>
+    <GMTOffset>-8</GMTOffset></Airport>
+    <Airport Code="RDU" Name="Raleigh-Durham International">
+        <Latitude>35.880301</Latitude>
+        <Longitude>-78.787953</Longitude>
+    <GMTOffset>-5</GMTOffset></Airport>
+    <Airport Code="SMF" Name="Sacramento International">
+        <Latitude>38.69534</Latitude>
+        <Longitude>-121.590086</Longitude>
+    <GMTOffset>-8</GMTOffset></Airport>
+    <Airport Code="SLC" Name="Salt Lake City International">
+        <Latitude>40.790139</Latitude>
+        <Longitude>-111.979114</Longitude>
+    <GMTOffset>-7</GMTOffset></Airport>
+    <Airport Code="SAT" Name="San Antonio International">
+        <Latitude>29.531407</Latitude>
+        <Longitude>-98.468412</Longitude>
+    <GMTOffset>-6</GMTOffset></Airport>
+    <Airport Code="SAN" Name="Lindbergh Field International">
+        <Latitude>32.734013</Latitude>
+        <Longitude>-117.193304</Longitude>
+    <GMTOffset>-8</GMTOffset></Airport>
+    <Airport Code="SFO" Name="San Francisco International">
+        <Latitude>37.621598</Latitude>
+        <Longitude>-122.37903</Longitude>
+    <GMTOffset>-8</GMTOffset></Airport>
+    <Airport Code="SJC" Name="Mineta San José International">
+        <Latitude>37.364199</Latitude>
+        <Longitude>-121.929023</Longitude>
+    <GMTOffset>-8</GMTOffset></Airport>
+    <Airport Code="SNA" Name="John Wayne Airport, Orange County">
+        <Latitude>33.676427</Latitude>
+        <Longitude>-117.867519</Longitude>
+    <GMTOffset>-8</GMTOffset></Airport>
+    <Airport Code="SEA" Name="Seattle-Tacoma International">
+        <Latitude>47.450464</Latitude>
+        <Longitude>-122.308816</Longitude>
+    <GMTOffset>-8</GMTOffset></Airport>
+    <Airport Code="STL" Name="Lambert-St. Louis International">
+        <Latitude>38.749969</Latitude>
+        <Longitude>-90.372176</Longitude>
+    <GMTOffset>-6</GMTOffset></Airport>
+    <Airport Code="TPA" Name="Tampa International">
+        <Latitude>27.983757</Latitude>
+        <Longitude>-82.537132</Longitude>
+    <GMTOffset>-5</GMTOffset></Airport>
+    <Airport Code="IAD" Name="Dulles International Airport">
+        <Latitude>38.953379</Latitude>
+        <Longitude>-77.456571</Longitude>
+    <GMTOffset>-5</GMTOffset></Airport>
+    <Airport Code="DCA" Name="Ronald Reagan Washington National">
+        <Latitude>38.851463</Latitude>
+        <Longitude>-77.040242</Longitude>
+    <GMTOffset>-5</GMTOffset></Airport>
+</Airports>

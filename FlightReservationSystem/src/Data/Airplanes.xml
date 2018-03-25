@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Airplanes>
+    <Airplane Manufacturer="Airbus" Model="A310">
+        <FirstClassSeats>24</FirstClassSeats>
+        <CoachSeats>200</CoachSeats>
+    </Airplane>
+    <Airplane Manufacturer="Airbus" Model="A320">
+        <FirstClassSeats>12</FirstClassSeats>
+        <CoachSeats>124</CoachSeats>
+    </Airplane>
+    <Airplane Manufacturer="Airbus" Model="A330">
+        <FirstClassSeats>42</FirstClassSeats>
+        <CoachSeats>375</CoachSeats>
+    </Airplane>
+    <Airplane Manufacturer="Airbus" Model="A340">
+        <FirstClassSeats>32</FirstClassSeats>
+        <CoachSeats>268</CoachSeats>
+    </Airplane>
+    <Airplane Manufacturer="Airbus" Model="A380">
+        <FirstClassSeats>128</FirstClassSeats>
+        <CoachSeats>427</CoachSeats>
+    </Airplane>
+    <Airplane Manufacturer="Boeing" Model="717">
+        <FirstClassSeats>24</FirstClassSeats>
+        <CoachSeats>82</CoachSeats>
+    </Airplane>
+    <Airplane Manufacturer="Boeing" Model="737">
+        <FirstClassSeats>28</FirstClassSeats>
+        <CoachSeats>100</CoachSeats>
+    </Airplane>
+    <Airplane Manufacturer="Boeing" Model="747">
+        <FirstClassSeats>124</FirstClassSeats>
+        <CoachSeats>400</CoachSeats>
+    </Airplane>
+    <Airplane Manufacturer="Boeing" Model="757">
+        <FirstClassSeats>32</FirstClassSeats>
+        <CoachSeats>170</CoachSeats>
+    </Airplane>
+    <Airplane Manufacturer="Boeing" Model="767">
+        <FirstClassSeats>104</FirstClassSeats>
+        <CoachSeats>200</CoachSeats>
+    </Airplane>
+    <Airplane Manufacturer="Boeing" Model="777">
+        <FirstClassSeats>79</FirstClassSeats>
+        <CoachSeats>400</CoachSeats>
+    </Airplane>
+</Airplanes>
