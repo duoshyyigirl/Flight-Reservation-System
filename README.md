@@ -36,6 +36,15 @@ The System will allow customer to review flight information before making a fina
 ## In the RAD, we have designed the activity diagraph and class diagraph, which are as below.
 ![class diagram](https://github.com/duoshyyigirl/Flight-Reservation-System/blob/master/img/Class%20Diagram.png)
 
+## User Interface Screenshot
+We implemented the system by Java and enabled users to do all the system functions listed above. Here are some screenshots of how our sytem works.
+![User Interface1](https://github.com/duoshyyigirl/Flight-Reservation-System/blob/master/img/userinter1.png)
+![User Interface2](https://github.com/duoshyyigirl/Flight-Reservation-System/blob/master/img/user2.png)
+![User Interface3](https://github.com/duoshyyigirl/Flight-Reservation-System/blob/master/img/user3.png)
+![User Interface4](https://github.com/duoshyyigirl/Flight-Reservation-System/blob/master/img/user4.png)
+![User Interface5](https://github.com/duoshyyigirl/Flight-Reservation-System/blob/master/img/user5.png)
+![User Interface6](https://github.com/duoshyyigirl/Flight-Reservation-System/blob/master/img/user6.png)
+
 
 
 
