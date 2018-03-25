@@ -34,7 +34,6 @@ The System will show customer a list of all results sorted according to price or
 The System will allow customer to review flight information before making a final reservation decision.
 
 ## In the RAD, we have designed the activity diagraph and class diagraph, which are as below.
-![activity diagram](https://github.com/duoshyyigirl/Flight-Reservation-System/blob/master/img/activity_diagram.png)
 ![class diagram](https://github.com/duoshyyigirl/Flight-Reservation-System/blob/master/img/Class%20Diagram.png)
 
 
